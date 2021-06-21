@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpDemo
 {
-    class Program
+    class SavePrincess
     {
         //static void Main (string[] args)
         //{
